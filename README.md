@@ -1,6 +1,6 @@
 # WebRTC Demo
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/opentok/OpenTokRTC)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/jaeilpark/OpenTokRTC)
 
 ## File Overview
 * `Procfile` is required to run the nodejs app on Heroku
