@@ -8,8 +8,8 @@ config.web = {};
 config.middleware = {};
 
 // OpenTok Credentials
-config.opentok.key = process.env.TB_KEY || 'Your opentok key';
-config.opentok.secret=  process.env.TB_SECRET || 'Your opentok secret';
+config.opentok.key = process.env.TB_KEY || '45708382';
+config.opentok.secret=  process.env.TB_SECRET || '68c0df03f41a1fac8a3d90e269b3fa3790983b4c';
 
 // Database configuration. Do not change if you do not plan to use redis
 config.db.redis = false; // are you using redis?
